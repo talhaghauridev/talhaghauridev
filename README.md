@@ -6,7 +6,12 @@
 
 ###
 
-<p align="left">I'm Talha, a Full-Stack Developer, passionate about creating impactful applications using latest technologies.<br><br>- 🔭 I’m working on app LearnStack<br>- 📚 I'm currently learning ML & App Development<br>- ⚡ In my free time I play Badminton<br>- 📫 How to reach me talhaghauridev@gmail.com</p>
+<p align="left">I'm Talha, a Full-Stack Developer, passionate about creating impactful applications using latest technologies.<br><br>
+- 🔭 I'm currently working on LearnStack<br>
+- 📚 Currently exploring ML & App Development<br>
+- 💬 Ask me about Nextjs, Expressjs, Postgresql, MongoDB Etc.<br>
+- ⚡ Fun fact: I love playing Badminton in my free time<br>
+- 📫 Reach me at: talhaghauridev@gmail.com</p>
 
 ###
 
@@ -70,24 +75,15 @@
 
 <h3 align="left">🔗 Connect with Me:</h3>
 
-<div align="left">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talhaghauri)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/talhaghauridev)
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/talhaghauridev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talhaghauridev@gmail.com)
 
-</div>
 
-<h3 align="left">🔥   My Stats :</h3>
-<div style="display:flex;">
-
-
-<div>
+<h3 align="left">📈 GitHub Stats</h3>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=talhaghauridev&theme=dark&hide_border=false)<br/>
-</div>
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=talhaghauridev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
+
 
