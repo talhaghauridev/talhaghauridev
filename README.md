@@ -10,12 +10,12 @@
 - 🔭 I'm currently working on LearnStack<br>
 - 📚 Currently exploring ML & App Development<br>
 - 💬 Ask me about Nextjs, Expressjs, Postgresql, MongoDB Etc.<br>
-- ⚡ Fun fact: I love playing Badminton in my free time<br>
-- 📫 Reach me at: talhaghauridev@gmail.com</p>
+- ⚡ In my free time I play Badminton<br>
+- 📫 How to reach me talhaghauridev@gmail.com</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
@@ -81,9 +81,8 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talhaghauridev@gmail.com)
 
 
-<h3 align="left">📈 GitHub Stats</h3>
+<h3 align="left">🔥   My Stats :</h3>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaghauridev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"   alt="talhaghauridev-streak-graph" height="210"  />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=talhaghauridev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=talhaghauridev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaghauridev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"    alt="talhaghauridev-most-used-languages-graph" height="170" />
 
