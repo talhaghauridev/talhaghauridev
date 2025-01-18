@@ -83,6 +83,6 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaghauridev&locale=en&mode=daily&hide_border=false&border_radius=5&order=3"   alt="talhaghauridev-streak-graph" height="210"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaghauridev"   alt="talhaghauridev-streak-graph" height="210"  />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaghauridev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"    alt="talhaghauridev-most-used-languages-graph" height="170" />
