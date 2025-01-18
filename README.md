@@ -7,11 +7,11 @@
 ###
 
 <p align="left">I'm Talha, a Full-Stack Developer, passionate about creating impactful applications using latest technologies.<br><br>
-- 🔭 I'm currently working on LearnStack<br>
-- 📚 Currently exploring ML & App Development<br>
-- 💬 Ask me about Nextjs, Expressjs, Postgresql, MongoDB Etc.<br>
-- ⚡ In my free time I play Badminton<br>
-- 📫 How to reach me talhaghauridev@gmail.com</p>
+- 🔭 I'm currently working on <b>LearnStack</b><br>
+- 📚 Currently exploring <b>AI & App Development</b><br>
+- 💬 Ask me about <b>Nextjs, Expressjs, Postgresql, MongoDB Etc.</b><br>
+- ⚡ In my free time I play <b>Badminton</b><br>
+- 📫 How to reach me <b>talhaghauridev@gmail.com</b></p>
 
 ###
 
@@ -82,7 +82,7 @@
 
 
 <h3 align="left">🔥   My Stats :</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaghauridev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"   alt="talhaghauridev-streak-graph" height="210"  />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaghauridev&locale=en&mode=daily&hide_border=false&border_radius=5&order=3"   alt="talhaghauridev-streak-graph" height="210"  />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaghauridev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"    alt="talhaghauridev-most-used-languages-graph" height="170" />
-
