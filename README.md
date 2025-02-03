@@ -75,7 +75,7 @@
 
 <h3 align="left">🔗 Connect with Me:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talhaghauri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talhaghauridev)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/talhaghauridev)
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/talhaghauridev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talhaghauridev@gmail.com)
@@ -83,6 +83,6 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaghauridev"   alt="talhaghauridev-streak-graph" height="210"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaghauridev&theme=dark"   alt="talhaghauridev-streak-graph" height="210"  />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaghauridev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"    alt="talhaghauridev-most-used-languages-graph" height="170" />
