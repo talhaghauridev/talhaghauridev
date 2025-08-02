@@ -83,11 +83,10 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 <div style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
-  <img width="20" />
   <!-- Streak Stats with Auto Theme -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=talhaghauridev&background=0d1117&fire=58a6ff&ring=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&border=30363d" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaghauridev&theme=default&border=e1e4e8" height="200" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaghauridev&theme=default&border=e1e4e8" height="180" />
   </picture>
   
   <img width="20" />
@@ -95,6 +94,6 @@
   <!-- Language Stats with Auto Theme -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaghauridev&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&border_color=30363d&layout=compact" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaghauridev&theme=default&border_color=e1e4e8&layout=compact" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaghauridev&theme=default&border_color=e1e4e8&layout=compact" height="180" />
   </picture>
 </div>
