@@ -82,8 +82,16 @@
 
 
 <h3 align="left">🔥   My Stats :</h3>
-<div style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaghauridev&background=0d1117&fire=58a6ff&ring=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&border=58a6ff" alt="talhaghauridev-streak-graph" height="200" />
-  <img width="20" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaghauridev&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&border_color=58a6ff&layout=compact" alt="talhaghauridev-most-used-languages-graph" height="200" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <!-- Streak Stats with Auto Theme -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=talhaghauridev&theme=dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaghauridev&theme=default" height="210" />
+  </picture>
+  
+  <!-- Language Stats with Auto Theme -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaghauridev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaghauridev&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="210" />
+  </picture>
 </div>
