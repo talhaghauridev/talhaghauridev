@@ -6,12 +6,12 @@
 
 ###
 
-<p align="left">I'm Talha, a Full-Stack Developer, passionate about creating impactful applications using latest technologies.<br><br>
-- 🔭 I'm currently working on <b>LearnStack</b><br>
-- 📚 Currently exploring <b>AI & App Development</b><br>
-- 💬 Ask me about <b>Nextjs, Expressjs, Postgresql, MongoDB Etc.</b><br>
+<p align="left">I'm Talha Ghauri, a Full-Stack Developer passionate about creating impactful applications using latest technologies.<br><br>
+- 🔭 I'm currently working on <b>Agentic AI projects</b><br>
+- 📚 Currently exploring <b>AI & Full-Stack Development</b><br>
+- 💬 Ask me about <b>Next.js, Express.js, PostgreSQL, MongoDB, etc.</b><br>
 - ⚡ In my free time I play <b>Badminton</b><br>
-- 📫 How to reach me <b>talhaghauridev@gmail.com</b></p>
+- 📫 How to reach me: <b>talhaghauridev@gmail.com</b></p>
 
 ###
 
@@ -82,7 +82,7 @@
 
 
 <h3 align="left">🔥   My Stats :</h3>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaghauridev&theme=dark"   alt="talhaghauridev-streak-graph" height="210"  />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaghauridev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"    alt="talhaghauridev-most-used-languages-graph" height="170" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaghauridev&theme=dark" alt="talhaghauridev-streak-graph" height="210" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaghauridev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="talhaghauridev-most-used-languages-graph" height="210" />
+</div>
