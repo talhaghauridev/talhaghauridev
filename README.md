@@ -82,7 +82,8 @@
 
 
 <h3 align="left">🔥   My Stats :</h3>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaghauridev&theme=dark" alt="talhaghauridev-streak-graph" height="210" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaghauridev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="talhaghauridev-most-used-languages-graph" height="210" />
+<div style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaghauridev&background=0d1117&fire=58a6ff&ring=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&hide_border=true" alt="talhaghauridev-streak-graph" height="210" />
+  <img width="20" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaghauridev&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&hide_border=true&layout=compact" alt="talhaghauridev-most-used-languages-graph" height="210" />
 </div>
