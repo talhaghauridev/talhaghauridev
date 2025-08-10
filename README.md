@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Full-Stack Developer</h1>
+<h1 align="center">Hi 👋, I'm Talha Ghauri</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Talha Ghauri, a Full-Stack Developer passionate about creating impactful applications using latest technologies.<br><br>
+<p align="left">A Full-Stack Developer passionate about creating impactful applications using the latest technologies.<br><br>
 - 🔭 I'm currently working on <b>Agentic AI projects</b><br>
 - 📚 Currently exploring <b>AI & Full-Stack Development</b><br>
 - 💬 Ask me about <b>Next.js, Express.js, PostgreSQL, MongoDB, etc.</b><br>
