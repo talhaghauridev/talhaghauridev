@@ -7,10 +7,13 @@
 <p align="left">A Full-Stack Developer passionate about creating impactful applications using the latest technologies.</p>
 <p align="left">
 - 🔬 I'm currently working on <b>Agentic AI projects</b><br>
-- 📚 Currently focused on <b>AI & Full-Stack Development</b><br>
-- 💬 Ask me about <b>Next.js, Express.js, PostgreSQL, MongoDB.</b><br>
+- 💼 Currently focused on <b>AI & Full-Stack Development</b><br>
+- 💬 Ask me about <b>Next.js, Express.js, PostgreSQL, MongoDB</b><br>
 - ⚡ In my free time, I play <b>Badminton</b><br>
-- 📫 How to reach me: <b>talhaghauridev@gmail.com</b></p>
+- 📫 How to reach me: <a href="mailto:talhaghauridev@gmail.com" style="color: inherit; text-decoration: none;;"><b>talhaghauridev@gmail.com</b></a>
+
+
+</p>
 
 ###
 
@@ -81,7 +84,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">📊  My Stats :</h3>
 <div style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
   <!-- Streak Stats with Auto Theme -->
   <picture>
