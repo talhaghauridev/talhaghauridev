@@ -10,9 +10,7 @@
 - 💼 Currently focused on <b>AI & Full-Stack Development</b><br>
 - 💬 Ask me about <b>Next.js, Express.js, PostgreSQL, MongoDB</b><br>
 - ⚡ In my free time, I play <b>Badminton</b><br>
-- 📫 How to reach me: <a href="mailto:talhaghauridev@gmail.com" style="color: inherit !important; text-decoration: none !important;"><b>talhaghauridev@gmail.com</b></a>
-
-
+- 📫 How to reach me: <b><a href="mailto:talhaghauridev@gmail.com" style="color: inherit !important; text-decoration: none !important;">talhaghauridev@gmail.com</a></b>
 </p>
 
 ###
