@@ -4,7 +4,8 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">A Full-Stack Developer passionate about creating impactful applications using the latest technologies.<br><br>
+<p align="left">A Full-Stack Developer passionate about creating impactful applications using the latest technologies.</p>
+<p align="left">
 - 🔬 I'm currently working on <b>Agentic AI projects</b><br>
 - 📚 Currently exploring <b>AI & Full-Stack Development</b><br>
 - 💬 Ask me about <b>Next.js, Express.js, PostgreSQL, MongoDB.</b><br>
