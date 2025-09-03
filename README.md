@@ -4,7 +4,6 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
- 
 <p align="left">A Full-Stack Developer passionate about creating impactful applications using the latest technologies.</p>
 <p align="left">
 - 🔬 I'm currently working on <b>Agentic AI projects</b><br>
