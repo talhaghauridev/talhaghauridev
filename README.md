@@ -62,8 +62,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo"  />
   <img width="12" alt="" aria-hidden="true" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="Supabase logo"  />
-  <img width="12" alt="" aria-hidden="true" />     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg"  height="40" alt="Expo logo" />
   <img width="12" alt="" aria-hidden="true" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"  height="40" alt="Flutter logo" />
   <img width="12" alt="" aria-hidden="true" />     
